@@ -1,0 +1,11 @@
+﻿  raudio.c
+  rcore.c
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+C:\Users\Sam\source\repos\mhm\raylib-master\src\external\miniaudio.h(76810): warning C4715: 'ma_sound_get_cursor_in_pcm_frames': not all control paths return a value
+  raylib.vcxproj -> C:\Users\Sam\source\repos\mhm\_bin\Release\raylib.lib
