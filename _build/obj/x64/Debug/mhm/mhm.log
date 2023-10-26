@@ -1,2 +1,3 @@
 ﻿  screen_gameplay.c
+C:\Users\Sam\source\repos\mhm\game\src\screen_gameplay.c(167,5): warning C4013: 'printf' undefined; assuming extern returning int
   mhm.vcxproj -> C:\Users\Sam\source\repos\mhm\_bin\Debug\mhm.exe
