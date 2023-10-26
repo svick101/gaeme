@@ -1,8 +1,2 @@
-﻿  raylib_game.c
-  screen_ending.c
-  screen_gameplay.c
-  screen_logo.c
-  screen_options.c
-  screen_title.c
-  Generating Code...
+﻿  screen_gameplay.c
   mhm.vcxproj -> C:\Users\Sam\source\repos\mhm\_bin\Debug\mhm.exe
